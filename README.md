@@ -1,1 +1,3 @@
-# dynamoDB-ruby-study
+# Study Repo
+
+- Repository for testing dynamoDB with Ruby
